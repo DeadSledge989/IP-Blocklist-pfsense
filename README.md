@@ -10,7 +10,7 @@ Then add a Block firewall rule using this alias
 
 Reason to use firewall > aliases > URLs (it auto updates every day, if the list gets updated)
 
-## Other Usefull Links
+## Other Useful Links
 ### Spamhaus
 * https://www.spamhaus.org/drop/drop.txt
 * https://www.spamhaus.org/drop/edrop.txt
