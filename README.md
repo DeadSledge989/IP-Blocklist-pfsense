@@ -6,7 +6,7 @@ Should be different ip's as most list as this one is created by myself by own ex
 ## How to use
 You can import this list into PfSense using firewall > aliases > URLs
 Then add a Block firewall rule using this alias
-* https://github.com/DeadSledge989/IpBlocklist/blob/main/Blocklist.txt
+* https://github.com/DeadSledge989/IP-Blocklist-pfsense/blob/main/Blocklist.txt
 
 Reason to use firewall > aliases > URLs (if the list got updated, auto grabs new version once a day)
 
