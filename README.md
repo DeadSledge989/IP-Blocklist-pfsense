@@ -1,4 +1,4 @@
-# IpBlocklist
+# IP Blocklist
 ## Description
 IP blocklist of suspicious IP's
 Should be different ip's as most list as this one is created by myself by own experiences
