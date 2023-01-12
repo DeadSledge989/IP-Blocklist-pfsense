@@ -8,7 +8,7 @@ You can import this list into PfSense using firewall > aliases > URLs
 Then add a Block firewall rule using this alias
 * https://github.com/DeadSledge989/IpBlocklist/blob/main/Blocklist.txt
 
-Reason to use firewall > aliases > URLs (it auto updates every day, if the list gets updated)
+Reason to use firewall > aliases > URLs (if the list got updated, auto grabs new version once a day)
 
 ## Other Useful Links
 ### Spamhaus
