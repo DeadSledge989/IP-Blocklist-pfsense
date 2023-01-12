@@ -1,9 +1,14 @@
 # IpBlocklist
-an IP blocklist of suspicious IP's
+## Description
+IP blocklist of suspicious IP's
+Should be different ip's as most list as this one is created by myself by own experiences
 
-you can import this list into PfSense using aliases > URLs and it would auto check for updates every day
+## how to use
+You can import this list into PfSense using firewall > aliases > URLs
+Then add a Block firewall rule using this alias
+* https://github.com/DeadSledge989/IpBlocklist/blob/main/Blocklist.txt
 
-should be different ip's as most list as this one is created by myself by own experiences
+Reason to use firewall > aliases > URLs (it auto updates every day, if the list gets updated)
 
 ## Other Usefull Links
 ### Spamhaus
