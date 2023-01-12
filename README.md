@@ -3,7 +3,7 @@
 IP blocklist of suspicious IP's
 Should be different ip's as most list as this one is created by myself by own experiences
 
-## how to use
+## How to use
 You can import this list into PfSense using firewall > aliases > URLs
 Then add a Block firewall rule using this alias
 * https://github.com/DeadSledge989/IpBlocklist/blob/main/Blocklist.txt
